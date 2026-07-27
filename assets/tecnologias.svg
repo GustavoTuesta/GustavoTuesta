@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 860 280" width="860" height="280">
+  <defs>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- ══════════════════════════════════════════════════════════
+       TARJETA IZQUIERDA — Tecnologías principales
+       ══════════════════════════════════════════════════════════ -->
+  <g transform="translate(0, 0)">
+    <!-- Fondo de la tarjeta -->
+    <rect x="0" y="0" width="410" height="280" rx="16" ry="16"
+          fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+
+    <!-- Título -->
+    <text x="205" y="48" text-anchor="middle"
+          fill="#ffffff" font-size="18" font-weight="700">Tecnologías principales</text>
+
+    <!-- Fila 1: Node.js, NestJS, TypeScript, PostgreSQL -->
+    <image href="https://skillicons.dev/icons?i=nodejs"   x="32"  y="72" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=nestjs"   x="107" y="72" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=ts"       x="182" y="72" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=postgres" x="257" y="72" width="55" height="55"/>
+    <!-- Fila 2: Docker, Git, GitHub (centrados) -->
+    <image href="https://skillicons.dev/icons?i=docker" x="69"  y="160" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=git"    x="144" y="160" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=github" x="219" y="160" width="55" height="55"/>
+  </g>
+
+  <!-- ══════════════════════════════════════════════════════════
+       TARJETA DERECHA — Experiencia adicional
+       ══════════════════════════════════════════════════════════ -->
+  <g transform="translate(450, 0)">
+    <!-- Fondo de la tarjeta -->
+    <rect x="0" y="0" width="410" height="280" rx="16" ry="16"
+          fill="rgba(255,255,255,0.025)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+    <!-- Título -->
+    <text x="205" y="48" text-anchor="middle"
+          fill="#ffffff" font-size="18" font-weight="700">Experiencia adicional</text>
+
+    <!-- Fila 1: Java, Python, SQLite, Angular -->
+    <image href="https://skillicons.dev/icons?i=java"    x="32"  y="72" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=python"  x="107" y="72" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=sqlite"  x="182" y="72" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=angular" x="257" y="72" width="55" height="55"/>
+    <!-- Fila 2: TensorFlow, React, Next.js (centrados) -->
+    <image href="https://skillicons.dev/icons?i=tensorflow" x="69"  y="160" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=react"      x="144" y="160" width="55" height="55"/>
+    <image href="https://skillicons.dev/icons?i=nextjs"     x="219" y="160" width="55" height="55"/>
+  </g>
+</svg>
