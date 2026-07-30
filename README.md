@@ -43,10 +43,11 @@
 </table>
 
 <!-- GITHUB STREAK -->
-<div align="center">
+<!--<div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=GustavoTuesta&theme=github-dark-dimmed"
+    src="https://streak-stats.demolab.com/?user=GustavoTuesta&theme=github-dark-dimmed"
     alt="GitHub Streak"
     width="650"
   >
 </div> 
+-->
